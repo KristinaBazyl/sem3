@@ -5,24 +5,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a839ba8b-6961-45e2-aeae-f65862e73a31" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Worker/AgeComporator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Worker/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Worker/Frilancer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Worker/SalaryComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Worker/SortType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Worker/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Worker/Worker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Seminar4/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Seminar4/MyArraylist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bank/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bank/CreditAccout.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bank/DebetAccout.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bank/Entity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bank/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bank/PersonalDate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bank/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bank/Transaction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homeworke/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homeworke/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homeworke/Fruit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homeworke/Orange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homeworke/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/services/EmployeeRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/services/EmployeeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/services/Repository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Seminar4/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Seminar4/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Worker/AgeComporator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Seminar3/AgeComporator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Worker/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Seminar3/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Worker/Frilancer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Seminar3/Frilancer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Worker/SalaryComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Seminar3/SalaryComparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Worker/SortType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Seminar3/SortType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Worker/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Seminar3/Task2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Worker/Worker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Seminar3/Worker.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +42,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -40,9 +50,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2W6e6Z10Ez94p2WQdbL98zrxbXH" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -55,16 +65,30 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/study/java/OOP/lesson1",
     "onboarding.tips.debug.path": "D:/study/java/seminars/phoneBook/sem3/src/main/java/org/example/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Task2">
+  <component name="RunManager" selected="Application.homeworke.Program">
+    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Seminar4.Program" />
+      <module name="sem3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Seminar4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Task1" />
       <module name="sem3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Worker.*" />
+          <option name="PATTERN" value="Seminar3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,11 +97,37 @@
       </method>
     </configuration>
     <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Worker.Task2" />
+      <option name="MAIN_CLASS_NAME" value="Seminar3.Task2" />
       <module name="sem3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Worker.*" />
+          <option name="PATTERN" value="Seminar3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bank.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bank.Program" />
+      <module name="sem3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bank.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="homeworke.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homeworke.Program" />
+      <module name="sem3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homeworke.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,6 +137,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.homeworke.Program" />
+        <item itemvalue="Application.bank.Program" />
+        <item itemvalue="Application.Program" />
         <item itemvalue="Application.Task2" />
         <item itemvalue="Application.Task1" />
       </list>
@@ -102,5 +155,15 @@
       <updated>1696057288316</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.util.UnknownFormatConversionException" package="java.util" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

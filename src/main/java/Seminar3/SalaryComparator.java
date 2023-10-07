@@ -1,4 +1,4 @@
-package Worker;
+package Seminar3;
 
 import java.util.Comparator;
 

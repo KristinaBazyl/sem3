@@ -1,4 +1,4 @@
-package Worker;
+package Seminar3;
 
 public class Worker extends Employee {
     public Worker(String surName, String name, double salary, int age) {

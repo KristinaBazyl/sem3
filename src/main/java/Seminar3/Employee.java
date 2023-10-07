@@ -1,4 +1,4 @@
-package Worker;
+package Seminar3;
 
 public abstract class Employee implements Comparable<Employee> {
     protected String name;

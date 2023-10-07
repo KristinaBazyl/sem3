@@ -1,4 +1,4 @@
-package Worker;
+package Seminar3;
 
 public class Frilancer extends Employee {
     protected double rate;
